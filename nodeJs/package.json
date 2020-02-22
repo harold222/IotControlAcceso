@@ -1,0 +1,23 @@
+{
+  "name": "control_acceso",
+  "version": "1.0.0",
+  "description": "Sistema de control de acceso para internet of things",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harold222/IotControlAcceso.git"
+  },
+  "author": "Harold Pedraza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harold222/IotControlAcceso/issues"
+  },
+  "homepage": "https://github.com/harold222/IotControlAcceso#readme",
+  "dependencies": {
+    "mqtt": "^3.0.0",
+    "mysql": "^2.18.1"
+  }
+}
